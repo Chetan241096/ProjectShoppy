@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StickyScrollView">
+        <attr name="stuckShadowHeight" format="dimension" />
+        <attr name="stuckShadowDrawable" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="DrawableRatingBarItem">
+        <attr name="scaleIconFactor" format="float"/>
+        <attr name="iconBackgroundColor" format="color"/>
+        <attr name="iconForegroundColor" format="color"/>
+        <attr name="iconDrawable" format="reference"/>
+    </declare-styleable>
+    <declare-styleable name="CheckView">
+        <attr name="checkView_strokeWidth" format="dimension"/>
+        <attr name="checkView_strokeColor" format="color"/>
+    </declare-styleable>
+</resources>
+
